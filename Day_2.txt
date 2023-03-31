@@ -1,0 +1,335 @@
+
+software services (online application).
+
+Software services, also known as online applications, are software programs that are accessed and used over the internet through a web browser or specialized client software. They are designed to provide users with a variety of features and functions that can be accessed from anywhere with an internet connection.
+
+
+infrastructure.
+Infrastructure refers to the fundamental facilities and systems necessary for a society, organization, or enterprise to function. It includes physical and organizational structures, as well as the underlying technology and services required to support them.
+
+Parallel processing:
+Parallel processing refers to the use of multiple processors or computers to perform a task simultaneously. The goal of parallel processing is to improve the speed and efficiency of computing by dividing a large problem into smaller sub-problems, each of which can be solved by a separate processor or computer.
+
+
+
+distributed  Systems
+A distributed machine refers to a computer system that is composed of multiple interconnected computers, each with its own processing power, memory, and storage capacity, and all of which work together to perform a task or set of tasks. The computers in a distributed system are typically connected through a network and communicate with each other using a messaging protocol.
+
+
+stand alone 
+A stand-alone machine, also known as a standalone computer or a desktop computer, is a computer system that is not connected to a network and operates independently. It typically includes a monitor, keyboard, and mouse, and is designed for use by a single user.
+Stand-alone machines are commonly used for personal computing tasks such as web browsing, email, word processing, and gaming. 
+
+NIC: 
+NIC stands for Network Interface Card. It is a hardware component that is used to connect a computer to a network. An NIC is typically installed inside a computer and provides a physical connection between the computer and the network.
+
+
+
+
+meta data.
+
+Metadata refers to information about data. It is typically used to describe the characteristics of a particular piece of data, such as its format, structure, or content. Metadata can be used to help manage and organize data, as well as to facilitate the search and retrieval of data.
+
+
+Scalability- (Scale out – Scale in)-
+Scalability refers to the ability of a system, network, or process to handle growing amounts of work or  traffic. 
+It is an important consideration for any organization that expects to grow and expand its operations.
+Scale out- refers to the practice of adding more resources to a system in order to increase its capacity. This can involve adding more servers to a network, or more nodes to a database cluster. By spreading the workload across multiple resources, scale-out architectures can handle larger amounts of traffic and data.
+
+Scale in - on the other hand, involves reducing the resources allocated to a system in order to decrease its capacity. This can involve shutting down servers or turning off nodes in a database cluster. Scale-in architectures are useful for reducing costs during periods of low demand or when resources are underutilized.
+
+Load Balancing
+Load balancing is the process of distributing workloads or network traffic evenly across multiple computing resources, such as servers or computers. The goal of load balancing is to ensure that no single resource becomes overwhelmed with requests, which could cause slowdowns or failures, while other resources are underutilized. By distributing the workload across multiple resources, load balancing improves 
+performance, availability, and scalability.
+
+Socket Programming
+Socket programming is a way of writing networked applications that communicate with each other over the internet or a local network. A socket is a programming interface that represents an endpoint for sending and receiving data over a network. Sockets provide a low-level mechanism for communication between processes 
+running on different computers.
+
+Software Product
+A software product is a type of software that is developed and sold as a commercial  product to customers. Software products can be standalone applications or can be part of a larger system. They are typically developed to meet specific user needs or to solve a particular problem. The development of software products involves a series of steps, including requirements gathering, design, coding, testing, and 
+deployment.
+
+Software Service
+A software service is a type of software that provides a specific function or capability over a network. Software services are designed to be accessed by other software applications or users over the internet or a local network.Software services can be thought of as building blocks for creating larger software 
+systems. For example, a payment gateway service could be used by an e-commerce website to process online transactions, or a messaging service could be used by a social media platform to enable users to send messages to each other.
+
+Desktop Computing
+Desktop computing refers to the use of a personal computer that is designed to be used on a desk or table, as opposed to a laptop or mobile device. Desktop computers are typically larger and more powerful than laptops or mobile devices, making them well-suited for tasks that require a lot of processing power, such as 
+video editing, gaming, or software development
+
+Distributed Computing
+Distributed computing is a computing model in which a large task is divided into smaller parts and processed on multiple computers, often in different physical locations, that are connected by a network. The goal of distributed computing is to improve performance and scalability by utilizing the processing power of multiple 
+computers to work on a single task.
+In distributed computing, each computer, or node, is responsible for processing a portion of the task. The nodes communicate with each other to exchange data and coordinate their activities. Distributed computing can be used for a variety of applications, including scientific simulations, data analysis, and web services.
+
+Database server:
+A database server typically runs as a separate process or service on a server computer, and it communicates with client applications or other servers over a network using a database protocol, such as SQL. The server manages multiple concurrent connections from clients and provides a mechanism for managing transactions, ensuring data consistency, and handling errors.
+
+Web server:
+A web server is a computer program or hardware system that stores, processes, and delivers web pages to client computers or devices over the internet or an intranet. Web servers are responsible for handling incoming requests from web browsers, retrieving and processing data, and sending back the requested content.
+
+
+
+End to end services
+End-to-end services refer to a service delivery model in which a single provider is responsible for delivering an entire service to the customer, from start to finish. This means that the provider is responsible for all aspects of the service, including design, development, implementation, operation, and maintenance.End-to-end services are commonly used in technology and software industries, where a provider may offer a comprehensive solution to meet the customer's needs. For example, a cloud service provider may offer end-to-end services for hosting and managing a company's entire IT infrastructure, including servers, databases, and applications.
+
+SSL(Secure Sockets Layer)-
+SSL (Secure Sockets Layer) is a security protocol that is used to establish an encrypted connection between a web server and a client (such as a web browser). SSL is a predecessor to the newer TLS (Transport Layer Security) protocol, which is now widely used in its place.The purpose of SSL is to provide a secure, encrypted communication channel between the server and the client, which prevents unauthorized access and tampering of data in transit. SSL achieves this by using public-key cryptography to encrypt and decrypt data sent between the server and the client.
+
+Portal
+A portal is a website or platform that provides users with access to a variety of information, services, or applications in one central location. Portals are typically designed to be personalized and customizable, allowing users to create their own unique experience based on their preferences and needs.Portals can be public or private, depending on the intended audience. Public portals are accessible to anyone with an internet connection and provide information or services to a wide range of users. Private portals are typically restricted to a specific group of users, such as employees of a company or members of an organization.
+
+Cloud Application
+A cloud application, also known as a cloud-based application, is a software application that runs on remote servers, typically hosted by a cloud computing provider. 
+Instead of being installed on a user's device, the application is accessed over the internet through a web browser or a dedicated application.
+
+Broadcasting
+Broadcasting refers to the distribution of audio and video content to a large audience through various channels, such as radio, television, or the internet. Broadcasting is typically used for entertainment, news, sports, and educational purposes.Broadcasting can be done through different technologies, such as analog or digital broadcasting. Analog broadcasting uses radio waves to transmit signals to receivers, while digital broadcasting uses digital signals to transmit information over the airwaves.
+
+ETL (Extract, Transform, Load)-
+ETL (Extract, Transform, Load) is a data integration process used to transfer data from various sources, transform it into a more suitable format, and then load it into a data warehouse or data lake. ETL is commonly used in business intelligence and data analytics to consolidate data from different systems and make it available for analysis.The three steps of ETL are:
+1. Extract: Data is extracted from various sources, such as databases, files, and APIs.
+2. Transform: The extracted data is transformed into a more suitable format by applying various data processing techniques, such as filtering, cleansing, aggregating, and joining. The transformed data is often stored in a staging area.
+3. Load: The transformed data is loaded into a data warehouse or data lake, where it can be analyzed and used for reporting and decision-making.
+
+Consumer
+In business and economics, a consumer is a person or entity that purchases goods or services for their own personal use or consumption. Consumers are the end-users of products or services and are the final link in the supply chain.Consumers can be individuals, households, or organizations, and they make purchasing decisions based on a variety of factors, such as price, quality, convenience, and personal preferences.
+
+Contributor
+A contributor is someone who contributes or adds something to a project, organization, or community. In the context of software development, a contributor is someone who contributes code, documentation, bug fixes, or other resources to an open source project.
+
+Contributors 
+can be individuals or organizations, and they may contribute in various ways, such as through code reviews, bug reports, testing, translations, and community management. Contributions can take many forms, including writing code, fixing bugs, creating documentation, designing user interfaces, providing feedback, 
+or promoting the project.
+
+Collaborator
+A collaborator is someone who works together with others to achieve a common goal or complete a project. Collaboration involves people sharing their skills, knowledge, and resources to achieve a common objective.
+In a business or organizational context, collaborators may be employees who work together on a project or team, or they may be individuals or organizations that work together on joint ventures or partnerships. Collaboration can involve different levels of participation, ranging from occasional contributions to ongoing involvement in a project.
+
+Generative Artificial Intelligence
+Generative Artificial Intelligence (AI) refers to a class of AI algorithms that can generate new content or data, such as text, images, or music, without human input. Generative AI is based on deep learning and neural network models, which are trained on large datasets of existing content to learn patterns and generate new 
+content that is similar in style and structure.Generative AI can be used for a variety of applications, such as generating creative content, synthesizing new data, and automating complex tasks. For example, generative AI can be used to generate personalized content for marketing campaigns, create realistic synthetic images for virtual reality or video games, or generate new music compositions based on existing patterns.
+
+Search Engine Optimization
+Search Engine Optimization (SEO) refers to the practice of optimizing a website to improve its visibility and ranking in search engine results pages (SERPs). The goal of SEO is to increase organic traffic to a website by improving its relevance, authority, and user experience.SEO involves various techniques, such as keyword research, on-page optimization, link building, and content creation. Keyword research involves identifying relevant keywords and phrases that users are searching for and incorporating them into the website's content and metadata.
+
+Location Transparency
+Location transparency is a concept in computer networking that refers to the ability of a network to hide the physical location of resources from users and applications. In other words, location transparency allows users and applications to access network resources without needing to know their physical location or how they are connected to the network. Location transparency is achieved through various technologies, such as domain 
+name systems (DNS), network address translation (NAT), and load balancing.
+
+Information Rights Management –
+Information Rights Management (IRM) is a technology that enables organizations to control and protect the confidentiality, integrity, and availability of digital information. IRM is designed to secure sensitive information from unauthorized access, use, modification, or disclosure, both within and outside an organization.
+
+Domain Controller (DNS)-
+A Domain Controller (DC) is a server that manages security, authentication, and authorization for a domain in a Windows Active Directory environment. DNS (Domain Name System) is a protocol used to translate domain names into IP addresses and vice versa. In a Windows Active Directory environment, a Domain  Controller also serves as a DNS server and provides DNS resolution services for the domain.
+
+Physical Store vs Virtual Store
+A physical store refers to a traditional brick-and-mortar retail location where customers can visit to browse and purchase products or services. 
+A virtual store, on the other hand, is an online store that operates over the internet and allows customers to browse and purchase products or services through a website or mobile app.
+
+DevOps
+DevOps is a combination of software development (Dev) and IT operations (Ops), which aims to improve collaboration, communication, and integration between development and operations teams. It involves using automation, monitoring, and feedback loops to streamline the software delivery process, reduce errors, and 
+improve the quality of software releases.DevOps operation management development involves integrating DevOps practices into the operations and development of software applications. This means that the development and operations teams work together to create and deploy applications more efficiently, with a focus on continuous delivery and continuous improvement.
+
+ContainerIn computing
+ a container is a lightweight, standalone executable package that includes everything needed to run an application, including code, libraries, system tools, and settings. Containers enable applications to run consistently across different computing environments, such as different operating systems, cloud providers, or 
+physical servers.Containers are similar to virtual machines, but they are much more lightweight and 
+require fewer resources to run. Containers share the same kernel as the host operating system, which makes them faster and more efficient than virtual machines.
+
+Container Orchestration
+Container orchestration is the automated management of containerized applications, including the deployment, scaling, and maintenance of containerized applications. It involves using a set of tools and services to manage and coordinate the deployment and operation of containers, ensuring that they work together seamlessly and 
+efficiently.Container orchestration tools typically provide a range of features, such as automated scaling, load balancing, service discovery, health monitoring, and data storage management. These tools enable DevOps teams to manage large-scale containerized applications across multiple hosts, clusters, and data centers, without having to manually configure and manage each container individually.Some popular container orchestration tools include Kubernetes, Docker Swarm, and Apache Mesos.
+
+Process
+processes refer to the steps and actions that are involved in delivering computing services over the internet. Processes in cloud computing can include everything from creating and deploying virtual machines, to managing data storage, to scaling applications up or down based on demand.Cloud computing processes are typically automated, which means that they are carried out using software tools and platforms that can execute tasks and workflows automatically, without requiring manual intervention from a human operator.
+
+System Software
+System software refers to a collection of programs and software components that are designed to manage and control the operation of a computer system. 
+It is the backbone of a computer system, providing a platform for application software to run on. 
+System software is responsible for managing the hardware components of a computer, providing interfaces between the hardware and the applications that run on it.
+
+OS:
+An operating system (OS) is a software system that manages computer hardware and software resources and provides common services for computer programs. The OS is responsible for managing computer resources, such as the CPU, memory, disk space, and input/output (I/O) devices, as well as providing a user interface and controlling the execution of applications.
+1.	Windows: developed by Microsoft, Windows is the most widely used operating system for personal computers.
+2.	macOS: developed by Apple, macOS is the operating system used on Apple's desktop and laptop computers.
+3.	Linux: an open-source operating system that is widely used in servers, embedded systems, and mobile devices.
+
+
+MS-DOS
+
+MS-DOS (Microsoft Disk Operating System) is a command-line operating system developed by Microsoft in the early 1980s. 
+It was designed to run on IBM PC-compatible computers and became widely popular in the 1980s and early 1990s.
+MS-DOS was a single-tasking operating system, meaning it could only run one program at a time. 
+It used a command-line interface, which required users to type commands in order to interact with the system. 
+Some of the most common commands used in MS-DOS included DIR (to list the contents of a directory), CD (to change directories), and COPY (to copy files).
+
+
+
+Process Scheduler
+A process scheduler is a component of an operating system that manages the allocation of system resources, such as CPU time, memory, and I/O, to processes running on a computer system. The process scheduler is responsible for determining which process should run next and allocating the necessary resources to that process.
+The process scheduler uses algorithms to determine the order in which processes are executed and how much time each process is allocated. Different algorithms may prioritize different factors, such as CPU utilization, turnaround time, response time, or fairness.
+
+Device Management
+Device management refers to the process of controlling and monitoring the use of computing devices, such as computers, smartphones, tablets, and other electronic devices, within an organization or network. Device management involves managing the configuration, security, and performance of these devices to ensure that they are used efficiently and securely.
+
+Process Management
+Process management in cloud computing involves managing and optimizing the execution of business processes in a cloud environment. It includes the design, deployment, automation, monitoring, and optimization of business processes to achieve greater efficiency and scalability.In cloud computing, process management refers to the management and optimization of the processes or applications running on a cloud-based system. The 
+cloud-based system may include virtual machines, containers, or serverless functions, which are managed and orchestrated by a cloud provider.
+
+Process Scheduling
+
+Process scheduling is a key component of operating systems that manages the allocation of resources, such as CPU time, memory, 
+and input/output (I/O) devices, to running processes. Process scheduling ensures that multiple processes can run simultaneously 
+on a single CPU by allocating CPU time to processes in a fair and efficient manner.
+There are different process scheduling algorithms that can be used, such as First-Come, First-Served (FCFS), Round Robin (RR), 
+Shortest Job First (SJF), and Priority Scheduling. Each algorithm has its advantages and disadvantages, 
+and the choice of algorithm depends on the specific requirements of the operating system and the applications running on it.
+
+Process Management
+
+Process management is the act of monitoring and controlling the various processes that run on a computer system, including the allocation of resources, 
+management of input/output operations, and scheduling of processes. The goal of process management is to ensure 
+that all processes on a system are executing correctly and efficiently, and that the system as a whole is functioning optimally.
+
+Memory Management
+
+Memory management is the process of controlling and coordinating computer memory, which is used to store data and programs 
+that are currently in use by the computer system. The goal of memory management is to allocate memory resources in an efficient and effective manner, 
+to prevent memory fragmentation, and to ensure that all processes have access to the memory they need to run properly.
+
+Device Management
+
+Device management refers to the process of managing and controlling the various devices connected to a computer system, such as printers, scanners, 
+external hard drives, and other peripherals. The goal of device management is to ensure that all connected devices are functioning properly, 
+are available to the system and the users, and are secure from unauthorized access.
+
+
+Context Switching
+Context switching refers to the process of switching from one task or activity to another. In computing, it typically refers to the process of saving the state of a currently running program or process, and then switching to another program or process to be executed. The context of the current program or process is saved so that it can be resumed later without losing any information or progress.
+
+GPR- General Purpose Registors
+General-purpose registers are a type of processor register that are used to hold data and addresses during program execution. These registers are called "general-purpose" because they can be used for a wide range of purposes and are not dedicated to any specific function.General-purpose registers are typically part of the processor's architecture and are accessed directly by the CPU during program execution. They are usually implemented as small, highspeed memory locations that are used to hold data that is being manipulated by the processor.
+
+Backend services:
+Backend services refer to the software services that run on the server-side of an application and are responsible for handling data processing, storage, and management. Backend services are typically accessed by the client-side of the application through APIs (Application Programming Interfaces).
+
+Desktop computer:
+A desktop computer is a type of computer that is designed to be used on a desk or table, typically in an office or home environment. It consists of a separate display monitor, a keyboard, a mouse, and a computer case that houses the computer's internal components, such as the motherboard, CPU, RAM, and hard drive.
+
+
+LAN
+A LAN, or Local Area Network, is a computer network that connects devices within a relatively small geographic area, such as a single building, office, or campus.LANs can be set up using various technologies, including Ethernet, Wi-Fi, or Bluetooth. Devices connected to a LAN can communicate with each other and share 
+resources, such as printers, files, and internet connections.LANs are typically used in businesses, schools, and other organizations to facilitate communication and collaboration among employees or students. They can also be used in homes to connect devices, such as computers, printers, and smartphones.
+
+WAN
+A WAN, or Wide Area Network, is a computer network that spans a large geographic area, such as a country, continent, or even the entire world. WANs typically connect LANs or other networks over a long distance, using technologies such as leased lines, satellite links, or the internet.WANs allow remote devices and networks to communicate with each other, regardless of their physical location. They are commonly used by businesses and 
+organizations with multiple locations or branches, as well as by internet service providers to connect their customers to the internet.
+
+Internet
+The internet is a global network of interconnected computer networks that allows users to communicate and exchange information across the world. It was developed in the late 1960s as a way for researchers to share information and has since grown into a vast network that connects billions of people and devices.
+The internet operates on a system of standardized communication protocols, including the Transmission Control Protocol (TCP) and the Internet Protocol (IP), which define how data is transmitted between devices. Data is transmitted in the form of packets, which are sent over networks and reassembled at their destination.
+
+Intranet
+An intranet is a private computer network that is used by an organization to share information, resources, and communication within the organization. Intranets are designed to be accessible only to authorized users within the organization and are usually protected by passwords, firewalls, and other security measures to prevent 
+unauthorized access.Intranets typically use the same technologies as the internet, such as web browsers 
+and email, but are limited to internal use within the organization. They can be used for a variety of purposes, including sharing internal news and announcements, providing access to corporate databases and software applications, and facilitating collaboration and communication among employees.
+
+ExtranetAn extranet is a private computer network that allows authorized users to access specific information and resources from outside of an organization. It is similar to an intranet but is designed to provide controlled access to external parties, such as vendors, suppliers, partners, or customers.Extranets typically use the same technologies as the internet and intranets, such as web browsers and email, but require a secure login and password to access. They can be used for a variety of purposes, such as sharing product information, inventory management, and collaboration on joint projects.
+
+What is difference between supercomputer and server?
+Supercomputers and servers are both powerful computing systems, but they are designed for different purposes and have some key differences.A supercomputer is a high-performance computing system that is designed to handle complex scientific and engineering simulations, large-scale data analysis, and other compute-intensive 
+tasks. Supercomputers typically consist of thousands of processors, large amounts of memory, and fast interconnects between nodes. They are used for applications such as weather  forecasting, nuclear simulations, and medical research. 
+On the other hand, a server is a computer system that is designed to provide services or resources to other computers or devices on a network. Servers are typically used to run applications, store data, and provide network services such as file sharing, email, and web hosting. They may be optimized for reliability, availability, and security, rather than pure performance. While supercomputers and servers may have similar hardware components, they differ in their primary use cases, software configurations, and management. Supercomputers are typically used for specialized scientific and engineering applications, while servers are used for a wide range of  general-purpose applications. Another key difference between supercomputers and servers is cost. Supercomputers are often custom-built and highly specialized, with costs ranging from tens of millions to hundreds of millions of dollars. Servers, on the other hand, are generally more affordable and accessible to a wider range of organizations and users
+
+
+GitHub and GitBash
+GitHub and GitBash are two separate tools that are often used together in software 
+development.
+GitHub is a web-based platform that provides hosting for software development and version control using Git. It allows developers to collaborate on projects by providing a central repository where code can be stored, managed, and shared with others.
+GitBash, on the other hand, is a command-line interface for Git that runs on Windows. It provides a Unix-like terminal environment that allows developers to use Git commands and other Unix tools directly from the command line.Developers often use GitBash in conjunction with GitHub to manage their Git repositories and collaborate with others on software development projects. They can use GitBash to clone, push, pull, and merge code changes in their local Git repositories, and then use GitHub to share their changes with others, manage issues, 
+and collaborate on code reviews.
+Multifactor Authentication
+Multifactor authentication (MFA) is a security mechanism that requires users to provide multiple forms of identification in order to gain access to a system or service.Traditionally, authentication involves a single factor, such as a password, which is something the user knows. MFA adds one or more additional factors, such as a fingerprint scan or a text message sent to a user's phone, which are something the user has or is.
+By requiring multiple factors, MFA provides an additional layer of security, making it harder for attackers to gain access to a system or service using stolen or guessed passwords. MFA can also be used to comply with various security regulations and standards.
+
+Single Sign OnSingle sign-on (SSO) is a system that allows users to authenticate themselves once and gain access to multiple applications or services without having to enter their credentials multiple times. With SSO, a user logs in once and is automatically authenticated to access all other applications or services that are part of the SSO system.SSO is designed to simplify the login process for users and improve security by 
+reducing the number of passwords that users need to remember
+
+Microsoft Azure
+
+Microsoft Azure is a cloud computing platform and service offered by Microsoft that provides a wide range of cloud-based services, 
+including virtual machines, storage, databases, analytics, machine learning, artificial intelligence, and internet of things (IoT) services. 
+Azure allows users to build, deploy, and manage applications and services in a flexible and scalable way, with pay-as-you-go pricing models.
+
+Suite of application: 
+A collection of related software applications or programs that are designed to work together to perform specific tasks or functions. Suites of applications are often packaged together and sold as a single product, and may include tools for productivity, communication, design, or other purposes. 
+
+
+Microsoft 365-
+
+Microsoft 365 is a subscription-based suite of software and services offered by Microsoft. It includes various cloud-based services, such as email hosting, file storage, productivity applications, and collaboration tools.
+Microsoft 365 is designed to provide businesses and organizations with a comprehensive suite of tools and services to help them stay productive and connected, whether working in the office or remotely.
+
+Google Apps
+Google Apps, now known as Google Workspace, is a suite of cloud-based productivity and collaboration tools provided by Google. It includes a range of applications such as Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Meet, Google Calendar, and more.Google Workspace is designed to provide businesses and organizations with a centralized platform for communication, collaboration, and productivity. It allows users to store, share, and collaborate on files and documents in real-time, as well as communicate through email, messaging, and video conferencing.
+
+Sharepoint Sites
+SharePoint sites are web-based collaboration platforms that allow teams to work together on documents, projects, and other types of content. SharePoint is a webbased platform provided by Microsoft and it is widely used by organizations to facilitate team collaboration and document management.SharePoint sites can be used to create team sites, communication sites, project sites, and more. These sites can be customized and configured to meet the specific needs of different teams and projects.
+Portal
+
+A portal in the cloud is a web-based platform or application that provides users with access to a range of services and resources hosted on the cloud. 
+Cloud portals are typically used to streamline access to various cloud-based services, such as software as a service (SaaS), platform as a service (PaaS), 
+and infrastructure as a service (IaaS).
+Cloud portals provide a centralized interface for users to access and manage their cloud resources, including virtual machines, storage, databases, and applications. 
+Users can typically log in to the portal using their credentials and access their resources from anywhere with an internet connection.
+
+
+Microsoft Team
+Microsoft Teams is a collaborative communication and productivity platform developed by Microsoft. It allows users to chat, video call, share files and collaborate on projects within a team or organization. Teams integrates with other Microsoft 365 applications like Word, Excel, and PowerPoint, as well as third-party applications. Teams can be accessed via a desktop or mobile application, or through a web browser. It has become increasingly popular for remote work and virtual team collaboration.
+
+Word Online
+Word Online is a web-based version of Microsoft Word that allows users to create,edit, and collaborate on Word documents from any web browser. With Word Online, users can create and edit documents using a simplified version of the familiar Word interface, with features such as font formatting, paragraph formatting, and document layout tools. Users can also collaborate on documents in real-time with other users, allowing multiple people to work on the same document simultaneously.
+
+Outlook Online
+Outlook Online, also known as Outlook on the web, is a web-based email client developed by Microsoft. It allows users to access their email, contacts, calendar, and tasks from any web browser.Outlook Online includes features such as email organization, search, filtering, and sorting tools, as well as customizable email signatures and automatic replies. It also integrates with other Microsoft applications, allowing users to schedule and join online meetings using Teams or Skype, and access files stored in OneDrive or 
+SharePoint directly from their inbox.
+
+Users and role management using Admin Microsoft 365 –
+Microsoft 365 provides administrators with several tools to manage users and roles. 
+Here are some key steps and features:
+1. Add and manage users
+2. Set up role-based access control
+3. Manage groups
+4. Set up security and compliance policies
+5. Monitor user activity 
+
+Cloning repository
+using git commandTo clone a repository using the git command, follow these steps:
+1. Open your terminal or command prompt on your computer.
+2. Navigate to the directory where you want to store the cloned repository.
+3. Type the following command:
+Replace <repository-url> with the URL of the repository you want to clone.
+4. Press enter.
+
+Git will now download the entire repository to your local machine, creating a new 
+directory with the same name as the repository. Once the cloning process is 
+complete, you can navigate into the directory and begin working with the code
+
+
+
+IRM.
+IRM stands for Information Rights Management. It is a set of technologies and policies used to protect sensitive information from unauthorized access, use, disclosure, and modification. IRM is commonly used in business and government contexts to safeguard confidential and proprietary information, such as trade secrets, financial data, and intellectual property.
+
+Web Application
+A web application, also known as a web app, is a software application that is accessed through a web browser or a web-based interface. 
+It typically runs on a remote server, and users can access it over the internet using a web browser.
+Web applications can be simple, such as a basic calculator, or they can be complex, such as an online banking system or a social media platform. 
+They can be built using a variety of programming languages, including HTML, CSS, and JavaScript, as well as backend technologies such as PHP, Ruby on Rails, and Python.
+
+Cloud Application
+A cloud application, also known as a cloud-based application, is a software application that runs on remote servers, typically hosted by a cloud computing provider. 
+Instead of being installed on a user's device, the application is accessed over the internet through a web browser or a dedicated application.
+
+
+

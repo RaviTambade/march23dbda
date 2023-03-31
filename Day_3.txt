@@ -1,0 +1,350 @@
+Abstraction & Encapsulation:-
+Abstraction is the process of hiding the implementation details of a system or object and exposing only the essential features and functionality to the users. This is done by defining a simple and consistent interface that allows users to interact with the system or object without needing to know the internal details of how it works.
+Encapsulation is the process of hiding the internal details of a system or object and protecting them from outside interference. This is done by defining clear boundaries between different parts of the system or object and preventing direct access to its internal workings.
+
+Scientific application
+Scientific applications are computer programs that are designed to solve complex scientific problems, often involving large amounts of data and complex mathematical or computational models. Scientific applications are used in a wide range of fields, including physics, chemistry, biology, geology, engineering, and many others.
+Some examples of scientific applications include simulation software, data analysis tools, visualization programs, and modeling software, and they are essential for advancing scientific knowledge and solving real-world problems.
+
+
+
+Gnerative Intelligence
+It is a type of AI that can generate new content such as text, images, videos, etc., based on existing data.
+
+Param Supercomputer: 
+NVIDIA has announced that the Centre for Development of Advanced Computing (C-DAC) will commission India’s largest HPC-AI supercomputer — ‘PARAM Siddhi – AI.’ 
+This HPC-AI supercomputer is a machine with 210 AI Petaflops (6.5 Petaflops Peak DP), which is based on the NVIDIA DGX SuperPOD reference architecture comprising of — 42 NVIDIA DGX A100 systems; connected with NVIDIA Mellanox HDR InfiniBand networking along with indigenously developed HPC-AI engine; Software Frameworks.
+
+Data store
+A data store is any type of repository used to store and manage data. Examples of data stores include databases, data warehouses, and data lakes. Data stores are used to organize and store data in a structured manner that allows for easy access and retrieval.
+
+Scalability:
+Scalability refers to the ability of a system or application to handle increasing amounts of data or traffic without sacrificing performance or reliability. In the context of data storage and management, scalability is a critical consideration, as organizations must be able to store and process large volumes of data as their business grows.
+
+Clustering
+Clustering is a technique used in data science and computer science to group similar objects together based on their attributes or characteristics. The process of clustering involves partitioning data points into distinct groups or clusters to gain insights and make predictions.
+
+Neural network
+A neural network is a type of machine learning algorithm inspired by the structure and function of the human brain. It consists of interconnected nodes or neurons that process information and learn to make predictions or decisions based on input data.
+
+
+Deep learning
+Deep learning is a type of machine learning that is inspired by the structure and function of the human brain. It involves the use of artificial neural networks that are composed of multiple layers of interconnected nodes or "neurons." These neural networks can learn to recognize patterns and relationships in data through a process of trial and error, called training, and can be used for a wide range of tasks, including image and speech recognition, natural language processing, and predictive analytics.
+
+Infrastructure:
+In the context of cloud computing, infrastructure refers to the underlying hardware and software resources that are required to provide cloud services. This includes servers, storage, networking equipment, and virtualization software, as well as the software applications and management tools needed to operate and monitor the infrastructure.
+
+Cloud infrastructure is typically hosted and managed by cloud service providers (CSPs), such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). These providers offer a range of infrastructure services, such as virtual servers, storage, databases, and networking services, which can be accessed and used by customers on a pay-per-use basis.
+
+IaaS:
+
+IaaS stands for Infrastructure as a Service, which is a type of cloud computing service model. In IaaS, cloud service providers offer virtualized computing infrastructure resources over the internet, including servers, storage, networking, and other fundamental computing resources, as a pay-per-use service.
+
+IaaS allows customers to provision and manage their own virtual infrastructure on-demand, without having to invest in and maintain their own physical hardware. This gives customers more control and flexibility over their IT infrastructure, as they can scale resources up or down as needed and pay only for what they use.
+
+Standalone program: 
+A standalone program is a program that does not require the services of an operating system to run. These programs are self-contained and can be run directly from an external storage device, such as a USB drive or CD/DVD. They do not require installation on the host computer
+
+CENTOS
+CentOS (Community Enterprise Operating System) is a free and open-source Linux distribution that is derived from the Red Hat Enterprise Linux (RHEL) source code. CentOS aims to provide a stable, reliable, and secure platform for running enterprise-level applications and services.
+CentOS is known for its long-term support, with each major release being supported for up to 10 years. It includes a wide range of software packages and tools, including web servers, databases, programming languages, and more. CentOS also has a large and active community of users and contributors, who provide support and help to maintain the distribution.
+CentOS is widely used in enterprise environments, data centers, and cloud infrastructure, due to its stability, reliability, and compatibility with RHEL. It can be used to run a variety of applications and services, such as web hosting, database servers, email servers, file servers, and more.
+Recently, CentOS has undergone some changes, with CentOS 8 being discontinued and replaced by CentOS Stream, which is now a rolling-release distribution. This has caused some controversy in the CentOS community, with some users choosing to migrate to other Linux distributions.
+
+KALI LINUX:
+Kali Linux is a Debian-based Linux distribution that is designed for advanced penetration testing, digital forensics, and ethical hacking. It is maintained and funded by Offensive Security Ltd.
+Kali Linux comes preinstalled with a wide range of security and hacking tools, including network scanners, vulnerability analysis tools, password cracking tools, wireless hacking tools, and more. It is popular among security professionals and researchers, as well as students learning about cybersecurity and ethical hacking.
+Kali Linux has a reputation for being a powerful and versatile distribution that can be customized and configured to meet specific security testing requirements. It also includes support for a wide range of hardware, including wireless adapters and other specialized devices.
+Kali Linux is available as a free download from the official Kali Linux website. It can be installed on a wide range of hardware, including laptops, desktops, and virtual machines. Kali Linux also includes a live boot option, which allows you to run the distribution from a USB or DVD without installing it on your system.
+
+Source code
+Source code is a collection of programming instructions written in a high-level programming language by a developer. It is the human-readable version of a computer program, consisting of a series of statements and instructions that tell the computer what to do.
+Source code is typically written in text files using a code editor or integrated development environment (IDE). The source code is then compiled or interpreted into machine code, which can be executed by the computer.
+
+.CSV file
+A CSV (comma-separated values) file is a text file that has a specific format which allows data to be saved in a table structured format.
+
+Script
+A sequence of instructions written in a programming language that can be executed by a computer.
+
+Binary file:
+A binary file is a type of computer file that contains data in a format that can be directly interpreted by a computer program. Unlike text files, binary files are not human-readable, as they are composed of binary digits (0s and 1s) that represent machine code instructions, data structures, or other types of information.
+
+Executable file:
+
+An executable file is a type of binary file that can be run directly by a computer's operating system (OS) to perform a specific task. It contains machine code instructions that are loaded into memory and executed by the CPU to perform the operations specified by the program.
+Executable files can be compiled from source code written in high-level programming languages, such as C++, Java, or Python, using a compiler. Alternatively, they can be generated by assembling machine code instructions directly or by linking together precompiled object code libraries.
+
+DLL IN AWS:
+
+In AWS, DLLs (Dynamic Link Libraries) can be used in Windows-based EC2 instances. DLLs are a type of shared library that contains code and data that can be used by multiple programs simultaneously. They are commonly used in Windows applications to provide functionality such as database connectivity, graphics rendering, and networking.
+To use a DLL in an EC2 instance, you would need to first install the necessary software and dependencies on the instance. This can typically be done using package managers or by downloading and installing the software manually.
+Once the software is installed, you can then include the DLL in your application or program as needed. This typically involves specifying the location of the DLL and any required dependencies in your application's configuration or setup files.
+It's important to note that while DLLs can be used in Windows-based EC2 instances, they may not be compatible with other operating systems or instance types. Additionally, you should always ensure that any DLLs used in your application or program are obtained from a trusted and reliable source to avoid security risks.
+
+
+Process:
+In an operating system (OS), a process is an instance of a program that is currently executing. A program is a set of instructions that are stored in memory and can be executed by a computer. When a program is executed, it creates one or more processes that run independently of each other.
+A process typically consists of three components:
+a)Program code: The set of instructions that the process is executing.
+b)Data: The variables and other data that the process is working with.
+c)Execution context: The information that the OS needs to manage the process, such as the process ID, priority level, and resource usage.
+
+Parallel Processing: 
+A method of dividing a computational task into smaller pieces to be executed simultaneously, which can significantly improve performance.
+
+
+Distributed computing 
+Distributed computing is the method of making multiple computers work together to solve a common problem. It involves breaking a problem down into smaller tasks that can be distributed to different computers in a network. By leveraging the power of multiple computers, distributed computing allows for faster processing of large amounts of data and can handle more complex challenges.
+
+Multiserver
+A multiserver architecture is a type of distributed computing architecture in which multiple servers work together to perform a common task or provide a service. The multiserver architecture can improve performance, reliability, scalability, and fault tolerance compared to a single-server architecture.In a multiserver architecture, multiple servers are connected and coordinated to form a cluster or a grid. Each server in the cluster performs a specific role, such as processing requests, storing data, or managing resources. The servers communicate with each other to distribute workloads, share data, and ensure that the system is always available.
+
+Thick server and thick client 
+A thick server architecture, also known as a server-centric or n-tier architecture, is an application architecture where most of the processing and data management occurs on the server-side. In this architecture, the server is responsible for processing business logic, storing data, and responding to client requests. The client-side application is typically responsible for displaying data and user interface components, and for sending requests to the server. The advantage of a thick server architecture is that it allows for centralized data management, security, and scalability, while the client-side applications can be relatively simple and lightweight.
+
+A thick client architecture, also known as a client-centric or fat client architecture, is an application architecture where most of the processing and data management occurs on the client-side. In this architecture, the client-side application is responsible for processing business logic, storing data, and responding to user 
+requests. The server is typically responsible for providing data and services to the client-side application. The advantage of a thick client architecture is that it allows for a rich user interface and faster response times, as the application logic and data processing are distributed across multiple clients.
+
+
+
+web farm
+A web farm is a group of web servers that work together to provide high availability and scalability for a web application or website. In a web farm, incoming requests are distributed among multiple web servers, allowing the workload to be spread across the servers and reducing the risk of downtime or performance issues.
+A web farm typically includes a load balancer, which acts as a traffic manager, distributing incoming requests among the web servers. The load balancer can use different algorithms to determine how to distribute requests, such as round-robin or least connections.
+Each web server in the web farm is configured with the same web application or website, allowing them to serve the same content and perform the same tasks. This allows the web farm to provide a high level of redundancy and fault tolerance, as requests can be redirected to another server in the event of a server failure or maintenance.
+Web farms can also provide scalability, allowing additional web servers to be added to the farm as needed to handle increasing traffic or workload. This can be done manually or automatically, depending on the configuration of the web farm.
+Overall, a web farm can provide a reliable and scalable infrastructure for web applications and websites, ensuring high availability and performance even under high traffic or load conditions.
+
+TERRAFORM:
+Terraform is an open-source infrastructure as code (IAC) tool developed by HashiCorp. It allows users to define, manage, and provision infrastructure resources across different cloud providers, such as Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, and more, using a declarative configuration language. With Terraform, users can define their infrastructure as code in a high-level language called HashiCorp Configuration Language (HCL) or JSON format. This allows users to version, manage, and apply changes to their infrastructure in a scalable and repeatable manner, making it easier to maintain and manage their cloud resources. Terraform uses a provider plugin architecture, which allows users to specify the cloud provider they want to use, as well as the specific resources they want to provision, such as virtual machines, databases, load balancers, and more. Terraform can then create, modify, or delete those resources as needed, based on the configuration defined in the code. Terraform is widely used by DevOps engineers, system administrators, and developers to automate the provisioning and management of cloud infrastructure. It simplifies the process of managing complex cloud infrastructure, enabling users to define and deploy infrastructure as code with ease.
+
+POWER USER:
+Power user is a term that refers to a user who has advanced knowledge and expertise in using a particular software application, operating system, or technology. A power user is someone who can perform complex tasks and use advanced features that are beyond the scope of a regular user.
+Power users typically have a deep understanding of the software or technology they use and are able to optimize it for their specific needs. They often utilize advanced settings and configurations to customize their experience and improve their productivity.
+Power users can be found in a variety of fields, such as information technology (IT), design, engineering, finance, and many others. They often play an important role in helping others in their organization to use technology more effectively and efficiently.
+In some cases, power users may also develop scripts or macros to automate tasks and increase their efficiency. They may also contribute to online communities and forums to share their knowledge and help others improve their skills.
+
+Hpervisor
+A hypervisor, also known as a virtual machine monitor (VMM), is a type of software that allows multiple virtual machines (VMs) to run on a single physical host machine. The hypervisor creates a virtual environment that simulates the hardware and software resources of a physical machine, allowing multiple operating systems to run simultaneously on the same physical server.
+
+Type 1 hypervisor
+A Type 1 hypervisor, also known as a "bare-metal hypervisor," is a virtualization software that runs directly on the host machine's hardware. It does not require an underlying operating system (OS) to function and manages the guest operating systems directly.
+Type 1 hypervisors provide a layer of abstraction between the physical hardware and the guest operating systems, allowing multiple virtual machines (VMs) to run on a single physical machine. This enables efficient use of hardware resources and facilitates consolidation of workloads.
+
+Type 2 hypervisor
+A Type 2 hypervisor, also known as a "hosted hypervisor," is a virtualization software that runs on top of an existing operating system (OS) such as Windows or macOS. It creates a virtualization layer on top of the OS and allows multiple guest operating systems to run as virtual machines (VMs) on the same physical machine.
+Type 2 hypervisors are often used for desktop virtualization or testing purposes, as they can be easily installed and managed on existing systems. 
+
+
+
+Cron
+Cron is a Linux job scheduler that is used to setup tasks to run periodically at a fixed date or interval. Cron jobs are specific commands or shell scripts that users define in the crontab files. These files are then monitored by the Cron daemon and jobs are executed on a pre-set schedule. Cron is commonly used for automating routine tasks, such as backups or system maintenance.
+
+
+
+Console: 
+In computing, a console is a command line interface or graphical user interface that allows users to interact with a computer system or application. It typically provides access to system settings, files, and utilities.
+
+
+SSH
+SSH (Secure Shell) is a network protocol used for securely connecting to a remote server or computer over an unsecured network, such as the Internet. It provides a secure, encrypted communication channel between the client (your computer) and the server, protecting the data and authentication information from eavesdropping, interception, and tampering
+
+
+Port numbers
+Port numbers are used to identify and differentiate network services and applications running on a computer or server. 
+Here are some common port numbers and their associated functions:
+• Port 20 and 21: File Transfer Protocol (FTP) data and control connections
+• Port 22: Secure Shell (SSH) for secure remote access to a server
+• Port 25: Simple Mail Transfer Protocol (SMTP) for sending email messages
+• Port 53: Domain Name System (DNS) for translating domain names to IP addresses
+• Port 80: Hypertext Transfer Protocol (HTTP) for web traffic
+• Port 110: Post Office Protocol (POP3) for retrieving email from a mail server
+• Port 143: Internet Message Access Protocol (IMAP) for retrieving email from a mail server
+• Port 443: HTTP Secure (HTTPS) for secure web traffic
+• Port 3306: MySQL database server
+• Port 5432: PostgreSQL database serve
+It is important to note that these are just a few examples of commonly used port numbers, and there are many other ports used for different services and applications. Additionally, some applications or services may use custom port numbers that are not commonly known
+
+EC2
+EC2 (Elastic Compute Cloud) is a web service provided by Amazon Web Services (AWS) that allows users to rent virtual machines (VMs) on the cloud. These VMs are commonly referred to as instances and can be used to run applications, host websites, or perform various other computing tasks.
+EC2 instances provide users with flexible and scalable computing resources that can be easily adjusted based on their needs. Users can choose from a wide variety of instance types, each with varying levels of CPU, memory, storage, and networking capacity
+
+S3
+S3 (Simple Storage Service) is a web service provided by Amazon Web Services (AWS) that allows users to store and retrieve data on the cloud. S3 provides scalable, secure, and highly available storage for objects, such as files, images, videos, and data backups.
+S3 is designed to be highly reliable, with data automatically replicated across multiple servers and data centers within an AWS region to ensure data durability and availability. 
+
+Bucket Container
+In Amazon S3, a bucket is a container for storing objects, which can be files, images, videos, or any other type of data. A bucket is like a folder, but with a unique name that must be globally unique across all of S3. A bucket can store an unlimited number of objects and can be configured to store data across different regions for redundancy and data locality.
+
+batch
+Batch processing is a method of processing large volumes of data or tasks in a batch, as opposed to processing them individually in real-time. In batch processing, data is collected, processed, and outputted in discrete units or batches, rather than being processed continuously.
+Batch processing is commonly used in industries such as finance, manufacturing, and telecommunications, where large amounts of data need to be processed on a regular basis. 
+
+
+
+Big Data
+Big data refers to extremely large, complex, and diverse data sets that cannot be processed or analyzed using traditional data processing tools or methods. Big data typically includes data from various sources, such as social media, internet of things (IoT) devices, sensors, and enterprise applications, and can include structured, semi-structured, and unstructured data.
+
+Process
+In computing, a process refers to a program or application that is currently running on a computer or a server. A process is an instance of an executing program, which can be a standalone program or a component of a larger application.
+Processes are managed by the operating system, which allocates system resources, such as memory, CPU time, and input/output (I/O) devices, to each process
+
+
+PPK
+PPK stands for PuTTY Private Key. It is a file format used by the PuTTY program, which is an open-source terminal emulator and SSH client for Windows.
+The PPK format is used to store private keys used for SSH authentication. SSH (Secure Shell) is a network protocol used for secure remote access to servers and other network devices. Private keys are used to authenticate a user's identity and establish a secure connection between the client and server.
+
+HPC
+HPC stands for High Performance Computing. It refers to the use of specialized hardware and software to perform large-scale computations at high speed and efficiency. HPC systems typically consist of clusters of interconnected computers, servers, or processors, and are used to solve complex problems in science, engineering, finance, and other fields that require massive computational power.
+
+
+Instance.
+In computing, an instance refers to a single occurrence or execution of a particular component or resource within a system. The term is commonly used in the context of virtualization, cloud computing, and software development.
+In virtualization, an instance typically refers to a virtual machine (VM) or a container that is created from a base image or template. Each instance is a self-contained unit that has its own operating system, applications, and resources, such as CPU, memory, and storage. 
+
+VIRTUAL SERVER
+A virtual server, also known as a virtual machine (VM), is a software emulation of a physical server. It allows multiple instances of operating systems and applications to run on a single physical server, making it possible to optimize the use of hardware resources and reduce costs.
+Virtual servers are created using virtualization software, which allows the server to be divided into multiple isolated virtual environments. Each virtual environment can run its own operating system and applications, and has access to a portion of the physical server's resources, such as CPU, memory, and storage.
+Virtual servers can be used for a wide range of purposes, including web hosting, database servers, email servers, and more. They are often used in cloud computing environments, as they provide flexibility and scalability, allowing resources to be easily scaled up or down as needed.
+One of the key benefits of virtual servers is that they allow for easier management and maintenance. They can be created, cloned, and deleted quickly and easily, and can be configured to automatically scale up or down based on demand.
+Overall, virtual servers provide a cost-effective, flexible, and scalable solution for hosting applications and services. They are widely used in enterprise environments, data centers, and cloud infrastructure.
+
+T2.MICRO
+t2.micro is an instance type offered by Amazon Web Services (AWS) that is designed for small workloads and low-level performance. It is part of the T2 family of instances, which are built on AWS's Nitro System and are optimized for burstable workloads.
+The t2.micro instance provides 1 virtual CPU (vCPU) and 1 GB of memory (RAM). It is a cost-effective option for running small applications or for development and testing purposes. The T2 instances are designed to provide a baseline level of CPU performance, with the ability to burst above that level for short periods when additional CPU capacity is needed.
+The t2.micro instance type is also eligible for the AWS Free Tier, which allows new AWS customers to use certain AWS services, including the t2.micro instance, for free for up to 12 months. This makes it a popular choice for individuals or small businesses who want to experiment with AWS and test out different workloads without incurring significant costs.
+Overall, the t2.micro instance type is a good choice for low-traffic websites, small-scale development and testing, and other small workloads that don't require high levels of performance or compute capacity.
+
+
+
+Cluster:
+A cluster is a group of interconnected computers or servers that work together to perform a specific task or set of tasks. In the context of cloud computing and containerization, a cluster is a group of computers or servers that are configured to work together to run containerized applications.
+
+Hadoop Cluster:
+           Hadoop cluster is a distributed computing platform that allows for the storage and processing of large data sets across clusters of computers. It includes two main components: Hadoop Distributed File System (HDFS) for storing data, and MapReduce for processing data. Hadoop allows for the parallel processing of data across multiple nodes in a cluster, enabling faster and more efficient processing.
+
+
+
+
+Bucket
+In computing, a bucket is a logical container for storing and managing data in object storage systems. Object storage is a type of storage architecture that allows users to store and retrieve data as discrete units called objects, rather than as blocks or files.
+A bucket is typically associated with cloud object storage services, such as Amazon S3 or Microsoft Azure Blob Storage. When creating a bucket, users can specify a unique name and various configuration options, such as the geographic region where the bucket will be stored, access controls, and versioning settings.
+
+
+Teraform
+Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp. It allows developers and operators to automate the process of managing and provisioning infrastructure, such as servers, virtual machines, and cloud resources, using a high-level declarative language.
+Terraform works by defining the desired state of infrastructure in configuration files, called Terraform files, which specify the resources that need to be created, modified, or deleted. 
+
+Volume.
+In computing, a volume is a logical container for storing data on a storage device, such as a hard disk drive or solid-state drive. A volume can be thought of as a partition or section of a storage device that is formatted with a specific file system and can be used to store files and other data.
+Volumes are used to organize and manage data on storage devices, and can be created and managed using various tools and operating systems
+
+
+Velocity, veracity, and volume 
+These characteristics are often referred to as the 3Vs of big data. Velocity refers to the speed at which data is generated and processed. With the rise of the Internet of Things (IoT) and other real-time data sources, data is being generated at an unprecedented rate. To effectively analyze this data, organizations 
+need to be able to process it quickly and efficiently. Veracity refers to the accuracy and reliability of data. With so much data being  generated, it's important to ensure that the data is accurate and trustworthy. Data 
+quality can be affected by various factors, such as data entry errors, incomplete data, or biased data sources. To ensure data veracity, organizations need to implement data quality checks and data governance policies.
+Volume refers to the sheer amount of data being generated. As data sources continue to grow, organizations are faced with the challenge of storing, managing, and analyzing huge amounts of data. To effectively handle this volume of data, organizations need to invest in scalable infrastructure, such as cloud computing and 
+distributed storage systems.
+
+
+Infrastructure of code.
+Infrastructure as Code (IaC) is a practice of automating the deployment and management of IT infrastructure using code. It involves defining infrastructure as software code, which can be version-controlled, tested, and deployed using tools and practices from software development.
+Traditionally, IT infrastructure was managed manually, with administrators configuring servers, networks, and other infrastructure components manually.
+
+Container
+In cloud computing, a container is a lightweight, stand-alone executable package that contains everything needed to run an application, including code, libraries, and system tools. Containers are designed to provide a consistent and isolated runtime environment that can be easily deployed and scaled across multiple cloud platforms.
+Containers are created using containerization platforms such as Docker, Kubernetes, or OpenShift, and they can be run on any infrastructure that supports the containerization platform. Containers provide several benefits over traditional virtual machines, such as faster startup times, lower overhead, and greater flexibility in managing resources.
+
+Docker Swarm:
+Docker Swarm is a container orchestration tool that allows you to manage a cluster of Docker nodes as a single virtual system. It enables you to deploy, manage, and scale containerized applications across multiple Docker hosts.
+
+
+Red Hat OpenShift
+Red Hat OpenShift is a container application platform developed by Red Hat. It is built on top of Kubernetes and provides a complete development, deployment, and operations environment for containerized applications. OpenShift provides a number of features and benefits for organizations looking to modernize their application development and delivery processes.
+
+Kubernetes:
+Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google, and is now maintained by the Cloud Native Computing Foundation (CNCF).
+
+
+ECS
+ECS (Elastic Container Service) is a web service provided by Amazon Web Services (AWS) that allows users to run and manage Docker containers on the cloud. ECS provides a scalable, highly available, and secure platform for deploying and managing containerized applications. With ECS, users can easily create and manage clusters of container instances, which are virtual machines that run Docker containers
+
+
+Database: 
+A database is a structured collection of data that is organized and stored in a way that allows for efficient retrieval and manipulation of data. It typically consists of tables
+
+
+RDS
+RDS (Relational Database Service) is a web service provided by Amazon Web Services (AWS) that allows users to easily set up, operate, and scale relational databases on the cloud. RDS provides a managed database service for several popular database engines, including MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB.
+With RDS, users can create and manage database instances without having to worry about the underlying infrastructure, such as server hardware, operating system, and software installation. RDS provides automated backup, restore, and patching services, as well as monitoring and performance tuning tools, to ensure database availability, reliability, and performance.
+
+Database Engine,
+also known as a database management system (DBMS), is software that manages and controls the storage, organization, retrieval, and security of data in a database. The database engine acts as an intermediary between the database and the applications that access it, handling requests for data and translating them into the appropriate actions to be performed on the database
+
+SQL 
+It stands for Structured Query Language. SQL lets you access and manipulate databases. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987.
+
+
+Cassandra:
+Cassandra is a distributed NoSQL database that is designed to handle large amounts of data across multiple nodes in a cluster. It provides high availability and scalability, allowing for the easy addition of new nodes to a cluster as data volumes grow. Cassandra is often used in applications that require high availability and low latency, such as real-time data processing and analytics.
+
+Scala:
+Scala is a general-purpose programming language that is often used in Big Data applications due to its performance, scalability, and functional programming features. Scala is built on top of the Java Virtual Machine (JVM), which allows it to leverage existing Java libraries and tools. Scala is often used with Apache Spark, a fast and flexible Big Data processing engine that allows for the efficient processing of large volumes of data.
+
+
+
+Business intelligence (BI) 
+BI refers to the process of collecting, analyzing, and presenting data and information to support business decision-making. BI uses various tools and techniques to turn raw data into useful insights, which can help organizations to make informed decisions and gain a competitive advantage
+
+Tableau:
+Tableau is a data visualization tool that allows users to connect to various data sources, create interactive dashboards, and share insights with others. It includes features such as drag-and-drop functionality, the ability to create custom calculations, and integration with other data sources.
+
+Power BI:
+Power BI is a business intelligence tool developed by Microsoft that allows users to connect to various data sources, analyze and transform data, and create interactive reports and dashboards. It also includes features such as natural language queries and the ability to collaborate with others.
+Power BI
+is a business analytics service provided by Microsoft that enables users to visualize and analyze data from various sources. It is a cloud-based service that allows users to create interactive reports, dashboards, and data visualizations with an easy-to-use interface. Power BI supports a wide range of data sources, including Excel spreadsheets, SQL Server databases, and cloud-based sources like Azure SQL Database and Salesforce. 
+Users can also connect to data from popular services like Google Analytics, Facebook, and Dropbox.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

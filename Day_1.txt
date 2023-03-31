@@ -1,0 +1,121 @@
+
+
+Agenda:
+	Cloud Computing:
+	4 Super Skills for todays and tomorrows workplaces
+		1.Critical Thinking & Problem Solving
+		2.Communication
+		3.Collaboration
+		4.Creativity
+
+
+	Cloud Computing for Business Productivity
+	Business Applications for 
+
+
+Cloud:
+Cloud is an computing environment,
+provided by companies such as microsoft, amazon, google, etc. 
+through DataCenters, Servers, Online Services 
+
+			for collaboration to take full advantage 
+			of Computation for growth of other companies
+			businesses.
+
+		
+Location:
+Data Storage:
+Data Structure:
+Data Analysis: set of actions (functions) (algorithms)			  
+		
+
+		Public Cloud
+			Microsoft Cloud-------Azure
+			Google Cloud----------GCP
+			Amazon Cloud----------AWS
+		Privte Cloud
+			Government Cloud
+			Multinationa Company Cloud
+			Max Private Cloud
+			BankOfAmarica Cloud for Banking
+
+		Hybrid Cloud
+
+
+
+	SAAS
+	PAAS
+	IAAS
+
+
+
+
+
+
+
+1.Virtualization
+2.Hypervisor
+3.Cluster
+4.ChatGPT
+5.DataCenter
+6.DataWarehouse
+7.DataLake
+8.AI
+9.Computing Enviornment
+10.DataProcessing
+11.RackServer
+12.Blade Server
+13.Hadoop
+14.MySql
+15.CPU
+16.GPU
+17.Microsoft 365
+18.Data Minning
+19.Prompt Engineering
+20.Hosted Enviornment
+21.OnPremise Enviornment
+22.Multitenancy
+23.Turing Machine
+24.Matrix
+25.On Demand Services
+26.Pay as You Go
+27.Suscription
+28.Public Cloud, Private, hydird Cloud
+29.Algorithm
+30.Microprocessor
+31.PCB
+32.LLM
+33.metadata
+34.Docker
+35.Kubernetes
+36.SSD, eSata,etc
+37.Database
+38.OpenAI
+39.Microsoft 365 co-pilot
+40.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
